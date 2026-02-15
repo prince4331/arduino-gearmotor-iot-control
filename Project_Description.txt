@@ -1,0 +1,4 @@
+﻿Title: Gearmotor IoT Control
+Overview: Blynk SSL project with dual PWM sliders to regulate two gearmotors over the network.
+Hardware: ESP8266 NodeMCU, Blynk app, dual-channel motor driver, geared DC motors.
+Notes: Replace the auth token and Wi-Fi credentials before deployment.
